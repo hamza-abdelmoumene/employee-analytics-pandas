@@ -1,4 +1,4 @@
-# 🏢 Employee Analytics — 100 Pandas & NumPy Exercises
+#  Employee Analytics — 100 Pandas & NumPy Exercises
 ### From Data Cleaning to Machine Learning Preparation
 
 > Inspired by the legendary [numpy-100](https://github.com/rougier/numpy-100) and [pandas-exercises](https://github.com/guipsamora/pandas_exercises) repositories.
@@ -6,7 +6,7 @@
 
 ---
 
-## 📦 Dataset
+##  Dataset
 
 **1,010 employees** across **8 countries**, **7 departments**, and **25 columns** covering demographics, compensation, performance, and work style.
 
@@ -448,18 +448,6 @@ print(f"Accuracy: {model.score(X_test, y_test):.2%}")
 | Concat & merge | 10 |
 | Business analysis & storytelling | 11 |
 | ML preprocessing pipeline | 12 |
-
 ---
 
-## 🚀 What's Next
-
-After completing this project, you're ready for:
-- **scikit-learn** — train your first ML model on the data from Part 12
-- **Matplotlib / Seaborn** — visualize the insights from Part 11
-- **SQL** — query the same data with a different tool
-- **Spark / Dask** — scale this workflow to millions of rows
-
----
-
-*Built with 🏢 data, ☕ coffee, and a lot of late nights.*
 *If this helped you, give it a ⭐ — it means a lot.*

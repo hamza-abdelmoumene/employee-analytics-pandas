@@ -1,10 +1,10 @@
-# 🏢 Employee Analytics — Pandas & NumPy Capstone
+# Employee Analytics — Pandas & NumPy Capstone
 
 > A real-world data science project simulating a complete analytics workflow — from raw messy data to a machine learning-ready dataset.
 
 ---
 
-## 📖 About
+## About
 
 Most pandas exercises online are isolated snippets that don't connect to each other.
 
@@ -12,11 +12,9 @@ This project is different. Every exercise builds on the previous one, working on
 
 You'll go from a raw CSV with missing values and messy columns, all the way to a clean, encoded, normalized dataset ready to feed into a machine learning model.
 
-Inspired by [numpy-100](https://github.com/rougier/numpy-100) and [pandas-exercises](https://github.com/guipsamora/pandas_exercises).
-
 ---
 
-## 📦 Dataset
+##  Dataset
 
 **1,010 employees** | **8 countries** | **7 departments** | **25 columns**
 
@@ -24,7 +22,7 @@ The dataset covers employee demographics, compensation, performance metrics, wor
 
 ---
 
-## 🗂️ Structure
+##Structure
 
 ```
 employee-analytics-pandas/
@@ -42,7 +40,7 @@ employee-analytics-pandas/
 
 ---
 
-## 🧠 Skills Covered
+##  Skills Covered
 
 | Part | Topic |
 |---|---|
@@ -61,7 +59,7 @@ employee-analytics-pandas/
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - **Legal** has the highest average salary ($118K), while **HR** has the lowest ($89K)
 - **~18%** of top performers (rating=5) are unsatisfied — a significant flight risk
@@ -71,7 +69,7 @@ employee-analytics-pandas/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
 # Clone the repo
@@ -87,7 +85,7 @@ jupyter notebook notebooks/employee_analytics.ipynb
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 ```
 pandas
@@ -97,7 +95,7 @@ jupyter
 
 ---
 
-## 🤖 What's Next
+##  What's Next
 
 After completing all 12 parts, the data is ML-ready:
 

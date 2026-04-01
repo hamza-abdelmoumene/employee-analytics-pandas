@@ -73,7 +73,7 @@ employee-analytics-pandas/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/employee-analytics-pandas.git
+git clone https://github.com/hamza-abdelmoumene/employee-analytics-pandas.git
 cd employee-analytics-pandas
 
 # Install dependencies
@@ -91,6 +91,7 @@ jupyter notebook notebooks/employee_analytics.ipynb
 pandas
 numpy
 jupyter
+scikit-learn
 ```
 
 ---

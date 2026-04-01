@@ -1,0 +1,8 @@
+department,headcount,avg_salary,attrition_rate,avg_performance,avg_satisfaction,avg_tenure
+Legal,50,114552.34,6.0,3.52,5.28,12.91
+Engineering,320,113329.71,12.0,3.61,5.24,14.44
+Finance,136,106754.65,10.0,3.68,5.19,13.47
+Marketing,132,93456.17,11.0,3.65,5.23,13.97
+Sales,202,86397.75,8.0,3.62,5.42,13.97
+HR,76,85623.28,17.0,3.42,5.6,15.17
+Operations,94,85034.55,13.0,3.53,5.32,14.6
